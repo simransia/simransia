@@ -1,7 +1,7 @@
 <h1 align="center"> < नमस्ते (Namaste)🙏🏻 World! /><img src="https://media.giphy.com/media/Z96Ax1zh5aSsHczGve/giphy.gif" width="60" margin-top="50px"></h1>
 <br><br>
 <p align="center">
- <b><i>I'm Simran, a web-development enthusiast. I ❤️ exploring and learning new things🌈 , Front-End Development! & UI/UX designing.  <i></b>
+ <b><i>I'm Simran, a web-development enthusiast. I ❤️ Front-End Development! , UI/UX designing & exploring and learning new things🌈.  <i></b>
  </p>
 <br><br>
 
@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on Google-Clone
 - 👩🏻‍💻 I’m currently learning Full Stack Development💫 & Open Source🔥
 - 🤝 I’m looking to collaborate on Open Source Projects
-- 💬 Ask me about things related to learning new things, developing new skills on the go, productivity.
+- 💬 Ask me about things related to learning new things, developing new skills on the go and anything you want to!
 - ⚡️ Fact: You don't need a college degree to learn stuff ♥︎
 <br><br>
 
