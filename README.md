@@ -1,20 +1,20 @@
 <h1 align="center"> < नमस्ते (Namaste)🙏🏻 World! /><img src="https://media.giphy.com/media/Z96Ax1zh5aSsHczGve/giphy.gif" width="60" margin-top="50px"></h1>
 <br><br>
 <p align="center">
-I'm Simran,
-𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
+ <b><i>I'm Simran, a web-development enthusiast. I ❤️ Front-Development! / UI/UX designing & exploring and learning new things🌈  <i></b>
  </p>
 <br><br>
 
-<img align='right' src="https://media.giphy.com/media/AXtFMwP1ZvjZSBtmGk/giphy.gif" width="150">
+<img align='right' src="https://media.giphy.com/media/AXtFMwP1ZvjZSBtmGk/giphy.gif" width="110">
 
 - 🔭 I’m currently working on Google-Clone
 - 👩🏻‍💻 I’m currently learning Full Stack Development💫 & Open Source🔥
 - 🤝 I’m looking to collaborate on Open Source Projects
 - 💬 Ask me about things related to learning new things, developing new skills on the go, productivity.
+- ⚡️ Fact: You don't need a college degree to learn stuff ♥︎
 <br><br>
 
-<h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">&nbsp;My Tech Stack<h2>
+<h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">&nbsp; My Tech Stack</h2>
 <br><br>
 
  <p align="center">
@@ -23,22 +23,20 @@ I'm Simran,
  <br><br>
   
  <h2><img src="https://media.giphy.com/media/GSGVeNcZdkMxO/giphy.gif" width="40">&nbsp;GitHub Stats</h2>
- 
-  <br><br>
+ <br><br>
  
  <p align="center">
  <img  src="https://github-readme-stats.vercel.app/api?username=simransia&show_icons=true">
  </p>
   <br>
  
-  <p>
-  <img align="right" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="230">
-    <br><br>
+  <p align="center">
+  <img  src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="230"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simransia&layout=compact">
   </p>
   <br><br>
 
-  <h2><img src="https://media.giphy.com/media/J4I1yCJJa37HkWjgoE/giphy.gif" width="40">&nbsp;Connect With Me <h2>
+  <h2><img src="https://media.giphy.com/media/J4I1yCJJa37HkWjgoE/giphy.gif" width="40">&nbsp;Connect With Me </h2>
   <br><br>
    
   <p align="center">
@@ -49,5 +47,9 @@ I'm Simran,
 <br><br>
  
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
+<br><br>
+  
+  
+   ![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge")
+  
 ---
