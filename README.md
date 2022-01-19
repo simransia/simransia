@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on Google-Clone
 - 👩🏻‍💻 I’m currently learning Full Stack Development💫 & Open Source🔥
 - 🤝 I’m looking to collaborate on Open Source Projects
-- 💬 Ask me about things related to learning new things, developing new skills on the go and anything you want to!
+- 💬 Ask me about things related to learning new things, developing new skills on the go & anything you want to!
 - ⚡️ Fact: You don't need a college degree to learn stuff ♥︎
 <br><br>
 
