@@ -19,8 +19,10 @@ I'm Simran,
 <h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">&nbsp;My Tech Stack<h2>
 <br><br>
 
+ <p align="center">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="64px" src="https://cdn.svgporn.com/logos/react.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="64px" src="https://cdn.svgporn.com/logos/java.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-     
+ </p>
+ 
   <br><br>
   
  <h2><img src="https://media.giphy.com/media/GSGVeNcZdkMxO/giphy.gif" width="40">&nbsp;GitHub Stats</h2>
