@@ -1,7 +1,7 @@
 <h1 align="center"> < नमस्ते (Namaste)🙏🏻 World! /><img src="https://media.giphy.com/media/Z96Ax1zh5aSsHczGve/giphy.gif" width="60" margin-top="50px"></h1>
 <br><br>
 <p align="center">
- <b><i>&nbsp;&nbsp;&nbsp;&nbsp;I'm Simran, a tech enthusiast from India. I ❤️ Front-End Development! , UI/UX designing , exploring & learning new things🌈 , Travelling💞 and Books!📚 <i></b>
+ <b><i>&nbsp;&nbsp;I'm Simran, a tech enthusiast, from India. I ❤️ Front-End Development! , UI/UX designing , exploring & learning new things🌈 , Travelling💞 and Books!📚 <i></b>
  </p>
 <br><br>
 
