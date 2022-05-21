@@ -5,8 +5,10 @@
  </p>
 <br><br>
 
-<img align='right' src="https://media.giphy.com/media/AXtFMwP1ZvjZSBtmGk/giphy.gif" width="110">
-
+  <p align='center'>
+<img  src="https://media.giphy.com/media/AXtFMwP1ZvjZSBtmGk/giphy.gif" width="110">
+  </p>
+  
 - 🔭 I’m currently working on Google-Clone
 - 👩🏻‍💻 I’m currently learning Full Stack Development💫 & Open Source🔥
 - 🤝 I’m looking to collaborate on Open Source Projects
