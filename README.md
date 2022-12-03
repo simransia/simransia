@@ -36,6 +36,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simransia&layout=compact">
   </p>
   <br>
+  
+   <h2><img src="https://media.giphy.com/media/lKPNYHG8cBkJCEwPlN/giphy.gif" width="40">&nbsp;Badges Earned</h2>
+  
+  [![@simmi's Holopin board](https://holopin.me/simmi)](https://holopin.io/@simmi)
 
   <h2><img src="https://media.giphy.com/media/J4I1yCJJa37HkWjgoE/giphy.gif" width="40">&nbsp;Connect With Me </h2>
   <br>
